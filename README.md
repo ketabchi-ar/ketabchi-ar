@@ -7,6 +7,8 @@
 </a>
 
 <p align="center">
+  [![DevSponsors](https://img.shields.io/badge/DevSponsors-Verified_OSS-6366f1?style=for-the-badge&logo=github)](https://devsponsors.github.io)
+  [![Sponsor](https://img.shields.io/badge/Sponsor-DevSponsors_Hub-emerald?style=for-the-badge&logo=github-sponsors)](https://devsponsors.github.io)
   <a href="https://ketabchi-ar.github.io"><img src="https://img.shields.io/badge/Website-ketabchi--ar.github.io-2271b1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/ketabchi-ar"><img src="https://img.shields.io/badge/GitHub-ketabchi--ar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/ardalanketabchi"><img src="https://img.shields.io/badge/X-@ardalanketabchi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
