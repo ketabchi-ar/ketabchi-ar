@@ -35,15 +35,16 @@ I'm a passionate software developer specializing in **WordPress & WooCommerce En
 
 ### 🚀 Featured Open Source & Projects
 
-| Project | Description | Stars | Tech Stack |
+| Project | Description | Link | Tech Stack |
 | :--- | :--- | :---: | :--- |
-| [**palette-panel-lite**](https://github.com/ketabchi-ar/palette-panel-lite) | Modern, lightweight user dashboard & OTP SMS authentication for WooCommerce. | ![Stars](https://img.shields.io/github/stars/ketabchi-ar/palette-panel-lite?style=flat-square&color=yellow) | `PHP` `WordPress` `WooCommerce` `TailwindCSS` |
-| [**palette-personal-wallet**](https://github.com/ketabchi-ar/palette-personal-wallet) | Persian personal finance wallet PWA with SQLite, receipt OCR & AI assistant. | ![Stars](https://img.shields.io/github/stars/ketabchi-ar/palette-personal-wallet?style=flat-square&color=yellow) | `PHP 8` `SQLite` `PWA` `AI / OpenAI` |
-| [**body-recomposition-tracker**](https://github.com/ketabchi-ar/body-recomposition-tracker) | Smart fitness, diet & ergonomics web app with video guides and audio cues. | ![Stars](https://img.shields.io/github/stars/ketabchi-ar/body-recomposition-tracker?style=flat-square&color=yellow) | `React 19` `Vite` `Tailwind CSS v4` `PWA` |
-| [**persian-font-plus**](https://github.com/ketabchi-ar/persian-font-plus) | Persian typography & Vazirmatn font plugin for Hermes Desktop. | ![Stars](https://img.shields.io/github/stars/ketabchi-ar/persian-font-plus?style=flat-square&color=yellow) | `JavaScript` `CSS` `Hermes Desktop` |
-| [**Antigravity-RTL**](https://github.com/ketabchi-ar/Antigravity-RTL) | Native RTL & Persian UI typography patch suite for Google Antigravity. | ![Stars](https://img.shields.io/github/stars/ketabchi-ar/Antigravity-RTL?style=flat-square&color=yellow) | `JavaScript` `CSS` `Developer Tools` |
-| [**factor**](https://github.com/ketabchi-ar/factor) | Dynamic Persian invoice & billing generator with instant calculations & print layout. | ![Stars](https://img.shields.io/github/stars/ketabchi-ar/factor?style=flat-square&color=yellow) | `HTML5` `CSS3` `JavaScript` |
-| [**idm-guide-android**](https://github.com/ketabchi-ar/idm-guide-android) | Modernized Android 15 guide application built with Kotlin & Material Design 3. | ![Stars](https://img.shields.io/github/stars/ketabchi-ar/idm-guide-android?style=flat-square&color=yellow) | `Kotlin` `Android SDK 35` `Material 3` |
+| [**Hermes-Cloud-Relay**](https://github.com/ketabchi-ar/Hermes-Cloud-Relay) | Serverless Cloudflare AI gateway with multi-account pools, web UI and 9Router auto-binding. | [B2n](https://b2n.ir/ketabchi-ar-hermes-cloud) | `Cloudflare Workers` `AI Gateway` `TypeScript` |
+| [**palette-panel-lite**](https://github.com/ketabchi-ar/palette-panel-lite) | Lightweight WooCommerce user dashboard and OTP authentication. | [B2n](https://b2n.ir/k-panel) | `PHP` `WordPress` `WooCommerce` `TailwindCSS` |
+| [**palette-personal-wallet**](https://github.com/ketabchi-ar/palette-personal-wallet) | Persian personal-finance PWA with SQLite, receipt OCR and AI assistant. | [B2n](https://b2n.ir/k-wallet) | `PHP 8` `SQLite` `PWA` `AI` |
+| [**body-recomposition-tracker**](https://github.com/ketabchi-ar/body-recomposition-tracker) | Smart fitness, nutrition and ergonomics tracker. | [B2n](https://b2n.ir/k-body) | `React 19` `Vite` `Tailwind CSS` `PWA` |
+| [**domain-price-checker**](https://github.com/ketabchi-ar/domain-price-checker) | Multi-engine domain availability and IranServer TLD-price checker. | [B2n](https://b2n.ir/domaincheck-2) | `JavaScript` `Web APIs` |
+| [**persian-font-plus**](https://github.com/ketabchi-ar/persian-font-plus) | Persian typography and Vazirmatn plugin for Hermes Desktop. | [B2n](https://b2n.ir/k-font) | `JavaScript` `CSS` `Hermes Desktop` |
+| [**Antigravity-RTL**](https://github.com/ketabchi-ar/Antigravity-RTL) | RTL alignment and Persian typography patch for Antigravity and IDEs. | [B2n](https://b2n.ir/k-rtl) | `JavaScript` `CSS` `Developer Tools` |
+| [**factor**](https://github.com/ketabchi-ar/factor) | Persian invoice generator with calculation and print layouts. | [B2n](https://b2n.ir/k-factor) | `HTML5` `CSS3` `JavaScript` |
 
 ---
 
